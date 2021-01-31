@@ -24,6 +24,7 @@ gem 'redis', '~> 4.0'
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
 gem 'simple_form'
+gem 'devise'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
